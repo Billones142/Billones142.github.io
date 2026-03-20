@@ -43,19 +43,14 @@ Creo firmemente en la soberanía tecnológica y en la optimización de sistemas 
 
 ---
 
-## 📽️ Video de Presentación
-[Click aquí para ver mi video de presentación (30-60s)](Enlace_a_tu_video)
-
----
-
 ## 📄 Currículum Vitae
 Puedes descargar mi CV detallado en formato PDF aquí:
-[📥 Descargar CV](Enlace_a_tu_PDF)
+[📥 Descargar CV](CV_Stefano_Merino_Docker_Infraestructura.pdf)
 
 ---
 
 ## ✉️ Contacto
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+* **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/stefano-merino-de-rui-b9a744213)
 * **GitHub:** [@Billones142](https://github.com/Billones142)
 * **Email:** stefanomerinoderui@gmail.com
 
