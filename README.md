@@ -43,7 +43,7 @@ Creo en la soberanía tecnológica y en la optimización de sistemas mediante he
 * **Enlace:** [Link a mis Dotfiles](https://github.com/Billones142/dotfiles)
 
 ### 3. Sistema Anti-cheat a nivel de Kernel (Linux)
-**Descripción:** Investigación y desarrollo de un sistema de seguridad para videojuegos que opera en el espacio de kernel de distribuciones GNU/Linux para detectar manipulaciones de memoria y procesos.
+**Descripción:** Proyecto final de carrera, todavia en desarrollo. Investigación y desarrollo de un sistema de seguridad para videojuegos que opera en el espacio de kernel de distribuciones GNU/Linux para detectar manipulaciones de memoria y procesos.
 * **Tecnologías:** Rust, Linux Kernel Modules (LKM), System Calls, Bash.
 * **Valor:** Seguridad de bajo nivel, monitoreo de integridad del sistema, gestión de privilegios y análisis de comportamiento de procesos.
 
