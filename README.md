@@ -6,12 +6,17 @@
 ## 🚀 Sobre mí
 Soy estudiante de último año de **Ingeniería en Sistemas de Información** en la Universidad de la Cuenca del Plata. Mi enfoque profesional se basa en la **flexibilidad técnica** y el aprendizaje por **experimentación (prueba y error)**. 
 
-Creo firmemente en la soberanía tecnológica y en la optimización de sistemas mediante herramientas de código abierto.
+Creo en la soberanía tecnológica y en la optimización de sistemas mediante herramientas de código abierto.
 
 * 📍 Corrientes, Argentina.
 * 🐧 **OS:** Arch Linux (Hyprland WM).
 * 💬 Hablo: Español (Nativo) e Inglés (C1 - Documentación técnica).
 
+---
+
+## Video de presentacion
+
+<video src="https://github.com/Billones142/Billones142.github.io/blob/main/Presentacion.mp4?raw=true" width="320" controls></video>
 
 ---
 
@@ -20,6 +25,7 @@ Creo firmemente en la soberanía tecnológica y en la optimización de sistemas 
 * **Infraestructura:** Docker, Linux Server Administration, TrueNAS.
 * **Networking:** Configuración de Redes (MikroTik), CCNA (en formación).
 * **Hardware:** 3D Printing, Custom Mechanical Keyboards, Firmware (Klipper/Marlin).
+* **Otros** Uso de ffmpeg(ej: el video de presentacion pesaba 200+ mb y ahora pesa 20), ssh para administracion remota, comandos de networking
 
 ---
 
@@ -35,11 +41,6 @@ Creo firmemente en la soberanía tecnológica y en la optimización de sistemas 
 * **Tecnologías:** Lua, Bash, Hyprland.
 * **Valor:** Eficiencia en el flujo de trabajo de desarrollo.
 * **Enlace:** [Link a mis Dotfiles](https://github.com/Billones142/dotfiles)
-
-### 3. [Nombre de Proyecto de la Carrera/PPS]
-**Descripción:** Breve descripción de un sistema de información desarrollado (ej. Backend en Go).
-* **Tecnologías:** Go, PostgreSQL.
-* **Entidad:** Universidad de la Cuenca del Plata / [Empresa PPS].
 
 ---
 
